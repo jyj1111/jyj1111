@@ -1,4 +1,7 @@
 ### Hi there 👋
+ <img src="https://img.shields.io/badge/Html-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Css-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Css-3178C6?style=flat&logo=JavaScript&logoColor=white"/>
 
 <!--
 **jyj1111/jyj1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
