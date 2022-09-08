@@ -3,8 +3,8 @@
  <img src="https://img.shields.io/badge/Css-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Css-3178C6?style=flat&logo=JavaScript&logoColor=white"/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjyj1111%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyj1111&langs_count=8)](https://github.com/jyj1111/github-readme-stats)
+
 <!--
 **jyj1111/jyj1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
