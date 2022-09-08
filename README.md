@@ -1,7 +1,6 @@
 ### Hi there 👋
  
-<img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=React&logoColor=white"/>
-</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyj1111&langs_count=8)](https://github.com/jyj1111/github-readme-stats)
 </br>
 ![jyj1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyj1111&show_icons=true&theme=radical)
